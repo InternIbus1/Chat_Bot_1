@@ -1,3 +1,11 @@
-PyMuPDF
+streamlit
+pandas
+requests
+beautifulsoup4
+lxml
+Pillow
 python-docx
 python-pptx
+PyMuPDF
+google-generativeai
+html5lib
